@@ -1,0 +1,7 @@
+Machado de Assis -- Obra Completa
+
+Romance
+
+romance/marm08.txt: Dom Casmurro (1899)
+romance/marm09.txt: Esa� e Jac� (1904)
+romance/marm10.txt: Memorial de Aires (1908)
